@@ -1,0 +1,16 @@
+{
+  "name": "dizer-jekyll",
+  "version": "1.0.0",
+  "description": "Dizer Jekyll Creative Portfolio Template ported from [Dizer HTML Template](https://themefisher.com/products/dizer/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.5",
+    "tinacms": "^1.4.5"
+  }
+}
